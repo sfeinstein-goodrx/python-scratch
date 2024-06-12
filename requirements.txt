@@ -1,0 +1,2 @@
+setuptools~=69.5.1
+pyperclip~=1.8.0
